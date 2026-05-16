@@ -5,6 +5,26 @@
 
 int main()
 {
+    int num;
+    std::cout << "Enter the number : " << std::endl;
+    std::cin >> num;
+    int rev = 0;
+    int ori_Num = num;
+    int dig = 0;
+    while (num != 0) {
+        dig = num % 10;
+        rev = rev * 10 + dig;
+        num = num / 10;
+    }
+    if (num == ori_Num) {
+        std::cout << "it is a pallandrom " << std::endl;
+        std::cout << ori_Num << num;
+    }
+    else
+    {
+        std::cout << "Not a pallandrom :" << ori_Num;
+    }
+
     std::cout << "Hello World!\n";
     std::cout << "This is the first edit. " << std::endl;
 }

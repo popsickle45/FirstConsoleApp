@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Game_made.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Game_made.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Game_madeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\Game_made">
+      <UniqueIdentifier>{1A42D3DD-F758-3F0F-96EF-1347A96CD452}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Game_made\Game_made.Build.cs">
+      <Filter>Source\Game_made</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Game_made\Game_made.cpp">
+      <Filter>Source\Game_made</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Game_made\Game_made.h">
+      <Filter>Source\Game_made</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Game_made\PrintMessage.cpp">
+      <Filter>Source\Game_made</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Game_made\PrintMessage.h">
+      <Filter>Source\Game_made</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

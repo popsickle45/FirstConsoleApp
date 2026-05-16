@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\game_made\\repos\\FirstConsoleApp\\Game_made\\Source\\Game_made\\Game_made.Build.cs",
+		"C:\\game_made\\repos\\FirstConsoleApp\\Game_made\\Source\\Game_made.Target.cs",
+		"C:\\game_made\\repos\\FirstConsoleApp\\Game_made\\Source\\Game_madeEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}
