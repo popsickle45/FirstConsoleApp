@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\game_made\\repos\\FirstConsoleApp\\game_project\\game_project\\Source\\game_project\\game_project.Build.cs",
+		"C:\\game_made\\repos\\FirstConsoleApp\\game_project\\game_project\\Source\\game_project.Target.cs",
+		"C:\\game_made\\repos\\FirstConsoleApp\\game_project\\game_project\\Source\\game_projectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

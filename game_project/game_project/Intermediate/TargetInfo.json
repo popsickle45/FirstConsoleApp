@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "game_project",
+			"Path": "C:\\game_made\\repos\\FirstConsoleApp\\game_project\\game_project\\Source\\game_project.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "game_projectEditor",
+			"Path": "C:\\game_made\\repos\\FirstConsoleApp\\game_project\\game_project\\Source\\game_projectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\game_project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5D2C774E-2694-4641-BCBF-7088C895E528}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\game_project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\game_projectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FF57A141-96B8-4579-99F4-65DF1B2A33F6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\game_project">
+      <UniqueIdentifier>{2CE980CB-7B67-4063-924B-3E186BB13063}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\game_project\game_project.Build.cs">
+      <Filter>Source\game_project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\game_project\game_project.cpp">
+      <Filter>Source\game_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\game_project\game_project.h">
+      <Filter>Source\game_project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\game_project\game_projectGameModeBase.cpp">
+      <Filter>Source\game_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\game_project\game_projectGameModeBase.h">
+      <Filter>Source\game_project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\game_project\opening_message.cpp">
+      <Filter>Source\game_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\game_project\opening_message.h">
+      <Filter>Source\game_project</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,5 @@
+C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\Definitions.game_project.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\game_made\repos\FirstConsoleApp\game_project\game_project\Source\game_project/opening_message.h
+C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Inc\game_project\opening_message.generated.h

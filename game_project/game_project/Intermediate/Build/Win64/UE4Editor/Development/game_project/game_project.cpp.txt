@@ -1,0 +1,2 @@
+C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\Definitions.game_project.h
+C:\game_made\repos\FirstConsoleApp\game_project\game_project\Source\game_project\game_project.h
