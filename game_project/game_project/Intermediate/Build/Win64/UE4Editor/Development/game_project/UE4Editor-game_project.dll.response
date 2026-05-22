@@ -34,9 +34,11 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\game_projectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\CameraDirection.cpp.obj"
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\game_project.cpp.obj"
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\game_projectGameModeBase.cpp.obj"
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\opening_message.cpp.obj"
+"C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\CameraDirection.gen.cpp.obj"
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\game_project.init.gen.cpp.obj"
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\game_projectGameModeBase.gen.cpp.obj"
 "C:\game_made\repos\FirstConsoleApp\game_project\game_project\Intermediate\Build\Win64\UE4Editor\Development\game_project\opening_message.gen.cpp.obj"

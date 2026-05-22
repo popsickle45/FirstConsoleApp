@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\game_project.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{5D2C774E-2694-4641-BCBF-7088C895E528}</UniqueIdentifier>
+      <UniqueIdentifier>{EA0FF088-7CA5-46FE-BC60-3379FDA125DE}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\game_project.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{FF57A141-96B8-4579-99F4-65DF1B2A33F6}</UniqueIdentifier>
+      <UniqueIdentifier>{8D30D5C7-B4EE-458B-9757-7DC95DA64D28}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\game_project">
-      <UniqueIdentifier>{2CE980CB-7B67-4063-924B-3E186BB13063}</UniqueIdentifier>
+      <UniqueIdentifier>{67B2F689-87AF-49DA-B989-2518659D9DAF}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\game_project\CameraDirection.cpp">
+      <Filter>Source\game_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\game_project\CameraDirection.h">
+      <Filter>Source\game_project</Filter>
+    </ClInclude>
     <None Include="..\..\Source\game_project\game_project.Build.cs">
       <Filter>Source\game_project</Filter>
     </None>
